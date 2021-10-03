@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**EddieXu1125/EddieXu1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ✨ Eddie's ✨ repository 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=EddieXu1125&show_icons=true&theme=radical)
+
+- 🔭 I’m currently studying at Communication University of China 🔭
+- 🌱 My Course Repository 🌱
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieXu1125&repo=2021-linux-public-EddieXu1125)](https://github.com/EddieXu1125/2021-linux-public-EddieXu1125)
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieXu1125&repo=2021-ns-public-EddieXu1125)](https://github.com/EddieXu1125/2021-ns-public-EddieXu1125)
+  - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EddieXu1125&repo=Digital-Content-Security)](https://github.com/EddieXu1125/Digital-Content-Security)
+
+- 📫 How to reach me: <eddiexu1125@163.com>
+- 😄 Interests: 
+  - Genshin Impact
+  - Sports
+  - Bilibili 
+
