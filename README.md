@@ -3,7 +3,7 @@
 
  ✨ Eddie's ✨ repository 
 
-![](https://github-readme-stats.vercel.app/api?username=EddieXu1125&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=kal1x&show_icons=true&theme=radical)
 
 - 🔭 I’m currently studying at Communication University of China 🔭
 - 🌱 My Course Repository 🌱
