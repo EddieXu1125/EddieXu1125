@@ -11,9 +11,9 @@
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kal1x&repo=2021-ns-public-kal1x)](https://github.com/kal1x/2021-ns-public-kal1x)
   - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kal1x&repo=Digital-Content-Security)](https://github.com/kal1x/Digital-Content-Security)
 
-- 📫 How to reach me: <sixseveneight567@gmail.com>
+- 📫 How to reach me:  <eddiexu1125@163.com> , <sixseveneight567@gmail.com>
 - 😄 Interests: 
-  - Genshin Impact
-  - Sports
-  - Bilibili 
+  - Movie🎦
+  - Sports🏋️‍♂️
+ 
 
